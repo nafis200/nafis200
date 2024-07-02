@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D0FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rakesh!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color= #00FFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nafis!;Welcome+to+my+GitHub!;thank you visit my github" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-    A Passionate <span style="color: rgb(0, 208, 255);">Frontend Developer</span> || <span style="color: rgb(0, 208, 255);">MERN Stack</span> Enthusiast
+    A Passionate <span style="color: rgb(0, 208, 255);">Full stack Developer</span> || <span style="color: rgb(0, 208, 255);">MERN Stack</span> Enthusiast
 </h3>
 
 <p align="center">
