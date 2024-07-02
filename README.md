@@ -18,7 +18,7 @@
 
 <h3 align="left" style="color: rgb(0, 208, 255);">🚀 About Me</h3>
 <p>
-    I'm Rakesh Biswas, a passionate frontend developer with a love for web development and programming. I specialize in creating dynamic and responsive web applications .I'm constantly learning and exploring new technologies to improve my skills and deliver the best         user experiences.
+   I am nafis ahamed front-end developer passionate about Full stack developer.Build eye caching website and user fuctional experiences.I am problem solver almost 800+ problem solve in varrious online judge
 </p>
 
 - 🔭 I'm currently working on enhancing my MERN stack skills
@@ -57,15 +57,15 @@
 <h3 align="left" style="color: rgb(0, 208, 255);">📊 GitHub Stats</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh01999&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=00D0FF&icon_color=00D0FF&text_color=FFFFFF&hide_border=true&langs_count=10" alt="top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafis200&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=00D0FF&icon_color=00D0FF&text_color=FFFFFF&hide_border=true&langs_count=10" alt="top languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakesh01999&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=00D0FF&icon_color=00D0FF&text_color=FFFFFF&hide_border=true" alt="github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nafis200&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=00D0FF&icon_color=00D0FF&text_color=FFFFFF&hide_border=true" alt="github stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh01999&theme=react&background=1F222E&ring=00D0FF&fire=00D0FF&currStreakNum=FFFFFF&currStreakLabel=00D0FF&sideNums=FFFFFF&sideLabels=00D0FF&dates=FFFFFF&hide_border=true" alt="github streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafis200&theme=react&background=1F222E&ring=00D0FF&fire=00D0FF&currStreakNum=FFFFFF&currStreakLabel=00D0FF&sideNums=FFFFFF&sideLabels=00D0FF&dates=FFFFFF&hide_border=true" alt="github streak" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 <h3 align="left" style="color: rgb(0, 208, 255);">🤝 Connect with me</h3>
 
 <p align="center">
-    <a href="https://www.facebook.com/rakeshbiswas.biswas.9843/" target="blank">
+    <a href="https://www.facebook.com/profile.php?id=100077678432442" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh biswas" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
     </a>
     <a href="https://discord.gg/rakesh biswas" target="blank">
