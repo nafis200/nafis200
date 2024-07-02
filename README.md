@@ -23,7 +23,7 @@
 
 - 🔭 I'm currently working on enhancing my MERN stack skills
 - 🔥 I'm passionate about creating beautiful and functional web experiences
-- 📫 How to reach me: **rbiswas01999@gmail.com**
+- 📫 How to reach me: **nafisahamed14@gmail.com**
 
 ---
 
@@ -76,8 +76,8 @@
     <a href="https://www.facebook.com/profile.php?id=100077678432442" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh biswas" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
     </a>
-    <a href="https://discord.gg/rakesh biswas" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakesh biswas" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
+    <a href="https://www.linkedin.com/in/n-ahamed/" target="blank">
+        <img align="center" src="https://i.postimg.cc/GhxyJrw9/317750-linkedin-icon.png" alt="Not shown" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
     </a>
 </p>
 
