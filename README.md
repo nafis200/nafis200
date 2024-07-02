@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" alt="coding gif" width="600" />
+    <img src="https://i.postimg.cc/5NtM2q3y/web-development1.png" alt="Not shown" width="600" />
 </p>
 
 ---
