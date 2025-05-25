@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-    A Passionate <span style="color: rgb(0, 208, 255);">Full Stack Developer</span> || <span style="color: rgb(0, 208, 255);">MERN Stack</span> Enthusiast
+    A Passionate <span style="color: rgb(0, 208, 255);">Full stack Developer</span> || <span style="color: rgb(0, 208, 255);">MERN Stack</span> Enthusiast
 </h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nafis200&label=Profile%20views&color=00d0ff&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rakesh01999&label=Profile%20views&color=00d0ff&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
@@ -16,90 +16,40 @@
 
 ---
 
-<h3 align="left" style="color: rgb(0, 208, 255);">🔥 About Me</h3>
-
+<h3 align="left" style="color: rgb(0, 208, 255);">🚀 About Me</h3>
 <p>
-I am a Full Stack Developer and passionate Problem Solver with over 800 problems solved across Codeforces, CodeChef, and LeetCode. I thrive on challenges and continuously strive to improve my coding skills and web development expertise.
+   I am nafis ahamed front-end developer passionate about Full stack developer.Build eye caching website and user fuctional experiences.I am problem solver almost 800+ problem solve in varrious online judge
 </p>
 
----
-
-<h3 align="left" style="color: rgb(0, 208, 255);">💻 Technical Skills</h3>
-
-**Frontend**  
-⚛️ React.js  
-🌐 Next.js  
-🎨 Tailwind CSS, DaisyUI, Ant Design, Prime React, ShadCN  
-🛠️ Redux, JavaScript, TypeScript  
-🔥 Firebase  
-🧱 HTML5, CSS3  
-
-**Backend**  
-🚀 Node.js, Express.js  
-🔐 JWT Authentication  
-🗄️ MongoDB, Mongoose  
-🐘 PostgreSQL, Prisma ORM  
-
-**Programming Languages**  
-💠 TypeScript  
-🟨 JavaScript  
-🐍 Python  
-💙 C++ & C  
+- 🔭 I'm currently working on enhancing my MERN stack skills
+- 🔥 I'm passionate about creating beautiful and functional web experiences
+- 📫 How to reach me: **nafisahamed14@gmail.com**
 
 ---
 
-<h3 align="left" style="color: rgb(0, 208, 255);">📚 Problem Solving Expertise</h3>
-
-🔢 Number Theory  
-🌐 Graph Theory  
-🔄 Dynamic Programming  
-🌲 Segment Trees  
-🔑 Hashing  
-🔢 Bitmasking  
-🎲 Combinatorics  
-🧩 Tricks & Techniques  
-
----
-
-<h3 align="left" style="color: rgb(0, 208, 255);">🚀 Experience</h3>
-
-**Assistant Senior Software Developer (Freelance)** — *2 months*  
-Full stack development with React, Next.js, Redux, Node.js, Express, MongoDB, PostgreSQL, Prisma
-
----
-
-<h3 align="left" style="color: rgb(0, 208, 255);">🎯 Goals</h3>
-
-- Reach **Codemaster** rank on Codeforces  
-- Grow as a skilled **Full Stack Developer**  
-
----
-
-<h3 align="left" style="color: rgb(0, 208, 255);">📞 Contact</h3>
-
-📧 **nafisahamed14@gmail.com**  
-📱 **+880 1922 208141** (WhatsApp, Telegram, Phone)
-
----
-
-<h3 align="left" style="color: rgb(0, 208, 255);">🛠️ Familiar Tech & Skills</h3>
+<h3 align="left" style="color: rgb(0, 208, 255);">🛠️ Familiar Tech & Skills </h3>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="prisma" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+</p>
+
+---
+
+<h3 align="left" style="color: rgb(0, 208, 255);">🔧 Tools</h3>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 </p>
 
 ---
@@ -124,10 +74,10 @@ Full stack development with React, Next.js, Redux, Node.js, Express, MongoDB, Po
 
 <p align="center">
     <a href="https://www.facebook.com/profile.php?id=100077678432442" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh biswas" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
     </a>
     <a href="https://www.linkedin.com/in/n-ahamed/" target="blank">
-        <img align="center" src="https://i.postimg.cc/GhxyJrw9/317750-linkedin-icon.png" alt="LinkedIn" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
+        <img align="center" src="https://i.postimg.cc/GhxyJrw9/317750-linkedin-icon.png" alt="Not shown" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
     </a>
 </p>
 
