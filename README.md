@@ -100,6 +100,11 @@ Full stack development with React, Next.js, Redux, Node.js, Express, MongoDB, Po
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    
+    <!-- Newly Added -->
+    <img src="https://avatars.githubusercontent.com/u/121015623?s=200&v=4" alt="antdesign" width="40" height="40" title="Ant Design" />
+    <img src="https://avatars.githubusercontent.com/u/1711643?s=200&v=4" alt="primereact" width="40" height="40" title="PrimeReact" />
+    <img src="https://raw.githubusercontent.com/shadcn.png" alt="shadcn" width="40" height="40" title="ShadCN" />
 </p>
 
 ---
