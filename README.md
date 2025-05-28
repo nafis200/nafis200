@@ -88,13 +88,13 @@ Full stack development with React, Next.js, Redux, Node.js, Express, MongoDB, Po
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;" />
   </a>
   <a href="https://www.facebook.com/nafis.iqbal.335821/" target="_blank" title="Facebook">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" style="margin-right: 20px;" />
   </a>
-  <br /><br />
-  <a href="mailto:nafisahamed14@gmail.com">
-    📧 <strong>nafisahamed14@gmail.com</strong>
+  <a href="mailto:nafisahamed14@gmail.com" title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="40" height="40" />
   </a>
 </p>
+
 ----
 
 <h3 align="left" style="color: rgb(0, 208, 255);">🛠️ Familiar Tech & Skills</h3>
