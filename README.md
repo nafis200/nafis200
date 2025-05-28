@@ -81,6 +81,21 @@ Full stack development with React, Next.js, Redux, Node.js, Express, MongoDB, Po
 📱 **+880 1922 208141** (WhatsApp, Telegram, Phone)
 
 ---
+<h3 align="left" style="color: rgb(0, 208, 255);">📬 Reach Out to Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/n-ahamed/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.facebook.com/nafis.iqbal.335821/" target="_blank" title="Facebook">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+  </a>
+  <br /><br />
+  <a href="mailto:nafisahamed14@gmail.com">
+    📧 <strong>nafisahamed14@gmail.com</strong>
+  </a>
+</p>
+----
 
 <h3 align="left" style="color: rgb(0, 208, 255);">🛠️ Familiar Tech & Skills</h3>
 
