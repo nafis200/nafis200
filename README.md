@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.postimg.cc/5NtM2q3y/web-development1.png" alt="Not shown" width="100%" />
+    <img src="https://i.postimg.cc/8zW51BVM/Red-Bold-Finance-You-Tube-Thumbnail.png" alt="Not shown" width="100%" />
 </p>
 
 ---
