@@ -44,14 +44,6 @@
 🐍 Python  
 💙 C++ & C  
 
-
-💻 Frontend
-<div class="flex flex-wrap gap-2"> <button class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full">⚛️ React.js</button> <button class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full">🌐 Next.js</button> <button class="bg-pink-100 text-pink-800 px-3 py-1 rounded-full">🎨 Tailwind CSS</button> <button class="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full">🎨 DaisyUI</button> <button class="bg-gray-100 text-gray-800 px-3 py-1 rounded-full">🎨 Ant Design</button> <button class="bg-teal-100 text-teal-800 px-3 py-1 rounded-full">🎨 PrimeReact</button> <button class="bg-purple-100 text-purple-800 px-3 py-1 rounded-full">🎨 ShadCN</button> <button class="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full">🛠️ Redux</button> <button class="bg-yellow-200 text-yellow-900 px-3 py-1 rounded-full">🛠️ JavaScript</button> <button class="bg-blue-200 text-blue-900 px-3 py-1 rounded-full">🛠️ TypeScript</button> <button class="bg-red-100 text-red-800 px-3 py-1 rounded-full">🔥 Firebase</button> <button class="bg-orange-100 text-orange-800 px-3 py-1 rounded-full">🧱 HTML5</button> <button class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full">🧱 CSS3</button> </div>
-🖥️ Backend
-<div class="flex flex-wrap gap-2 mt-2"> <button class="bg-green-100 text-green-800 px-3 py-1 rounded-full">🚀 Node.js</button> <button class="bg-green-200 text-green-900 px-3 py-1 rounded-full">🚀 Express.js</button> <button class="bg-rose-100 text-rose-800 px-3 py-1 rounded-full">🔐 JWT Auth</button> <button class="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full">🗄️ MongoDB</button> <button class="bg-yellow-200 text-yellow-900 px-3 py-1 rounded-full">🗄️ Mongoose</button> <button class="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full">🐘 PostgreSQL</button> <button class="bg-purple-100 text-purple-800 px-3 py-1 rounded-full">🐘 Prisma ORM</button> </div>
-💻 Programming Languages
-<div class="flex flex-wrap gap-2 mt-2"> <button class="bg-blue-200 text-blue-900 px-3 py-1 rounded-full">💠 TypeScript</button> <button class="bg-yellow-100 text-yellow-900 px-3 py-1 rounded-full">🟨 JavaScript</button> <button class="bg-green-100 text-green-900 px-3 py-1 rounded-full">🐍 Python</button> <button class="bg-cyan-100 text-cyan-900 px-3 py-1 rounded-full">💙 C++</button> <button class="bg-cyan-100 text-cyan-900 px-3 py-1 rounded-full">💙 C</button> </div>
-
 ---
 
 <h3 align="left" style="color: rgb(0, 208, 255);">📚 Problem Solving Expertise</h3>
