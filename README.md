@@ -12,7 +12,7 @@
 
 <p align="center">
     <img 
-  src="https://i.postimg.cc/SnSqd9Rx/Red-Bold-Finance-You-Tube-Thumbnail.png" 
+  src="https://i.postimg.cc/vH18hR3G/Red-Bold-Finance-You-Tube-Thumbnail-1.png" 
   alt="Not shown" 
   width="100%" 
 />
